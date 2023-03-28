@@ -1,0 +1,6 @@
+E:\LatihanTaxi\LatihanTaxi\bin\Debug\LatihanTaxi.exe.config
+E:\LatihanTaxi\LatihanTaxi\bin\Debug\LatihanTaxi.exe
+E:\LatihanTaxi\LatihanTaxi\bin\Debug\LatihanTaxi.pdb
+E:\LatihanTaxi\LatihanTaxi\obj\Debug\LatihanTaxi.csprojResolveAssemblyReference.cache
+E:\LatihanTaxi\LatihanTaxi\obj\Debug\LatihanTaxi.exe
+E:\LatihanTaxi\LatihanTaxi\obj\Debug\LatihanTaxi.pdb
